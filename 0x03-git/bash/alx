@@ -1,1 +1,2 @@
-\n ggs
+#!/bin/bash
+echo "ALX School"
